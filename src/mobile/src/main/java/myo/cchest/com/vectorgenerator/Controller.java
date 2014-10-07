@@ -9,11 +9,18 @@ public class Controller {
     }
     //public static boolean re
     //save pose to DB
+    //DBService
     //calculate range of vectors being recorded
+    //RangeUtility
     //connect to myo
+    //myodevicelistener
     //start record Vectors
+    //in controller
     //stop recording Vectors
+    //in controller
     //retrieve myo data
+    //myodevicelistener
     //check which Vectors to care about
+    //buildpose
 
 }
